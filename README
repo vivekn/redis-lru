@@ -1,4 +1,6 @@
-redis-lru is an implementation of a Least Recently Used cache using the sorted set data structure in redis.
+redis-lru is an implementation of a Least Recently Used cache using the sorted set data structure in redis. 
+
+O(log n) insert and O(1) retrieval times.
 
 License: BSD
-Author: Vivek Narayanan <mail@vivekn.co.cc>
+Author: Vivek Narayanan <vivek_n@me.com>
