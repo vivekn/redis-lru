@@ -1,6 +1,7 @@
 redis-lru is an implementation of a Least Recently Used cache using the sorted set data structure in redis. 
 
-O(log n) insert and O(1) retrieval times.
+O(log n) insert and O(1) retrieval times. This is quite fast despite O(log n) as the network latency will be the dominating factor
+instead of CPU time. 
 
 License: BSD
 Author: Vivek Narayanan <vivek_n@me.com>
