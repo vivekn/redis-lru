@@ -4,4 +4,4 @@ O(log n) insert and O(1) retrieval times. This is quite fast despite O(log n) as
 instead of CPU time. 
 
 License: BSD
-Author: Vivek Narayanan <vivek_n@me.com>
+Author: Vivek Narayanan <vivek.narayanan@outlook.com>
